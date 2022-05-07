@@ -1,6 +1,10 @@
 import React from 'react'
-import WorkImg from '../assets/workImg.jpeg'
-import realEstate from '../assets/realestate.jpg'
+import crypto from '../assets/crypto.png'
+import chat from '../assets/chat.png'
+import sm from '../assets/sm.png'
+import blog from '../assets/blog.png'
+import todo from '../assets/todo.png'
+import weather from '../assets/weather.png'
 
 const Work = () => {
   return (
@@ -12,36 +16,36 @@ const Work = () => {
             </div>
         
         <div className='grid sm:grid-cols-2 md:grid-cols-3 gap-4'>
-            <div style={{backgroundImage: `url(${WorkImg})`}} className='shadow-lg shadow-gray-300 group container rounded-md flex justify-center items-center mx-auto content-div'>
+            <div style={{backgroundImage: `url(${chat})`}} className='shadow-lg shadow-gray-300 group container rounded-md flex justify-center items-center mx-auto content-div'>
                 
                 
                 <div className='opacity-0 group-hover:opacity-100'>
                     <span className='text-2xl font-bold text-white tracking-wider'>
-                        React JS Application
+                        RoR Chat Application
                     </span>
                     <div className='pt-8 text-center'>
-                        <a href='/'>
+                        <a href='/' target="_blank" rel="noopener noreferrer">
                             <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Demo</button>
                         </a>
-                        <a href='/'>
+                        <a href='https://github.com/Alex-Grimes/chatapp' target="_blank" rel="noopener noreferrer">
                             <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Code</button>
                         </a>
                 </div>
             </div>
         </div>
 
-            <div style={{backgroundImage: `url(${realEstate})`}} className='shadow-lg shadow-gray-300 group container rounded-md flex justify-center items-center mx-auto content-div'>
+            <div style={{backgroundImage: `url(${blog})`}} className='shadow-lg shadow-gray-300 group container rounded-md flex justify-center items-center mx-auto content-div'>
                 
                 
                 <div className='opacity-0 group-hover:opacity-100'>
                     <span className='text-2xl font-bold text-white tracking-wider'>
-                        React JS Application
+                        JS Blog Application
                     </span>
                     <div className='pt-8 text-center'>
                         <a href='/'>
                             <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Demo</button>
                         </a>
-                        <a href='/'>
+                        <a href='https://github.com/Alex-Grimes/markdown-blog' target="_blank" rel="noopener noreferrer">
                             <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Code</button>
                         </a>
 
@@ -49,18 +53,18 @@ const Work = () => {
             </div>
         </div>
 
-            <div style={{backgroundImage: `url(${realEstate})`}} className='shadow-lg shadow-gray-300 group container rounded-md flex justify-center items-center mx-auto content-div'>
+            <div style={{backgroundImage: `url(${sm})`}} className='shadow-lg shadow-gray-300 group container rounded-md flex justify-center items-center mx-auto content-div'>
                 
                 
                 <div className='opacity-0 group-hover:opacity-100'>
                     <span className='text-2xl font-bold text-white tracking-wider'>
-                        React JS Application
+                        React Social Media Site
                     </span>
                     <div className='pt-8 text-center'>
                         <a href='/'>
                             <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Demo</button>
                         </a>
-                        <a href='/'>
+                        <a href='https://github.com/Alex-Grimes/MERNG' target="_blank" rel="noopener noreferrer">
                             <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Code</button>
                         </a>
 
@@ -69,52 +73,52 @@ const Work = () => {
             </div>
         </div>
 
-            <div style={{backgroundImage: `url(${realEstate})`}} className='shadow-lg shadow-gray-300 group container rounded-md flex justify-center items-center mx-auto content-div'>
+            <div style={{backgroundImage: `url(${crypto})`}} className='shadow-lg shadow-gray-300 group container rounded-md flex justify-center items-center mx-auto content-div'>
                 
                 
                 <div className='opacity-0 group-hover:opacity-100'>
                     <span className='text-2xl font-bold text-white tracking-wider'>
-                        React JS Application
+                        RoR Crypto Tracker
                     </span>
                     <div className='pt-8 text-center'>
                         <a href='/'>
                             <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Demo</button>
                         </a>
-                        <a href='/'>
+                        <a href='https://github.com/Alex-Grimes/Ruby-crypto-calculator' target="_blank" rel="noopener noreferrer">
                             <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Code</button>
                         </a>
 
                 </div>
             </div>
         </div>
-            <div style={{backgroundImage: `url(${realEstate})`}} className='shadow-lg shadow-gray-300 group container rounded-md flex justify-center items-center mx-auto content-div'>
+            <div style={{backgroundImage: `url(${weather})`}} className='shadow-lg shadow-gray-300 group container rounded-md flex justify-center items-center mx-auto content-div'>
                 
                 
                 <div className='opacity-0 group-hover:opacity-100'>
                     <span className='text-2xl font-bold text-white tracking-wider'>
-                        React JS Application
+                        JS Weather Application
                     </span>
                     <div className='pt-8 text-center'>
                         <a href='/'>
                             <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Demo</button>
                         </a>
-                        <a href='/'>
+                        <a href='https://github.com/Alex-Grimes/weatherapp' target="_blank" rel="noopener noreferrer">
                             <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Code</button>
                         </a>
                 </div>
             </div>
         </div>
-            <div style={{backgroundImage: `url(${realEstate})`}} className='shadow-lg shadow-gray-300 group container rounded-md flex justify-center items-center mx-auto content-div'>
+            <div style={{backgroundImage: `url(${todo})`}} className='shadow-lg shadow-gray-300 group container rounded-md flex justify-center items-center mx-auto content-div'>
                 
                 <div className='opacity-0 group-hover:opacity-100'>
                     <span className='text-2xl font-bold text-white tracking-wider'>
-                        React JS Application
+                        TS Todo Application
                     </span>
                     <div className='pt-8 text-center'>
                         <a href='/'>
                             <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Demo</button>
                         </a>
-                        <a href='/'>
+                        <a href='https://github.com/Alex-Grimes/Angular-Todo' target="_blank" rel="noopener noreferrer">
                             <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Code</button>
                         </a>
 
