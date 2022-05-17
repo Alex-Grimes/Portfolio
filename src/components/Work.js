@@ -25,7 +25,7 @@ const Work = () => {
                     </span>
                     <div className='pt-8 text-center'>
                         <a href='/' target="_blank" rel="noopener noreferrer">
-                            <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Demo</button>
+                            {/* <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Demo</button> */}
                         </a>
                         <a href='https://github.com/Alex-Grimes/chatapp' target="_blank" rel="noopener noreferrer">
                             <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Code</button>
@@ -43,7 +43,7 @@ const Work = () => {
                     </span>
                     <div className='pt-8 text-center'>
                         <a href='/'>
-                            <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Demo</button>
+                            {/* <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Demo</button> */}
                         </a>
                         <a href='https://github.com/Alex-Grimes/markdown-blog' target="_blank" rel="noopener noreferrer">
                             <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Code</button>
@@ -62,7 +62,7 @@ const Work = () => {
                     </span>
                     <div className='pt-8 text-center'>
                         <a href='/'>
-                            <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Demo</button>
+                            {/* <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Demo</button> */}
                         </a>
                         <a href='https://github.com/Alex-Grimes/MERNG' target="_blank" rel="noopener noreferrer">
                             <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Code</button>
@@ -82,7 +82,7 @@ const Work = () => {
                     </span>
                     <div className='pt-8 text-center'>
                         <a href='/'>
-                            <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Demo</button>
+                            {/* <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Demo</button> */}
                         </a>
                         <a href='https://github.com/Alex-Grimes/Ruby-crypto-calculator' target="_blank" rel="noopener noreferrer">
                             <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Code</button>
@@ -100,7 +100,7 @@ const Work = () => {
                     </span>
                     <div className='pt-8 text-center'>
                         <a href='/'>
-                            <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Demo</button>
+                            {/* <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Demo</button> */}
                         </a>
                         <a href='https://github.com/Alex-Grimes/weatherapp' target="_blank" rel="noopener noreferrer">
                             <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Code</button>
@@ -116,7 +116,7 @@ const Work = () => {
                     </span>
                     <div className='pt-8 text-center'>
                         <a href='/'>
-                            <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Demo</button>
+                            {/* <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Demo</button> */}
                         </a>
                         <a href='https://github.com/Alex-Grimes/Angular-Todo' target="_blank" rel="noopener noreferrer">
                             <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Code</button>
